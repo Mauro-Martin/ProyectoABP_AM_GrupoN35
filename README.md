@@ -26,26 +26,6 @@ Este proyecto fue desarrollado por el **Grupo N°35** para el espacio curricular
 
 ---
 
-## 📁 Estructura del repositorio
-
-### `data/`
-Contiene el archivo de datos censales históricos (formato CSV).
-
-### `scripts/`
-Contiene los scripts de Python utilizados para:
-
-- Ajustar modelos y generar gráficos comparativos.
-- Representar proyecciones ilustrativas.
-- Generar automáticamente un informe técnico en PDF.
-
-### `images/`
-Imágenes generadas por los scripts para incluir en el informe y presentaciones.
-
-### `informes/`
-Contiene el informe final en PDF generado con Python, incluyendo introducción, metodología, análisis matemático y conclusiones.
-
----
-
 ## 🧠 Modelos matemáticos utilizados
 
 - **Modelo Lineal**  
